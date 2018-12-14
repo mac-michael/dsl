@@ -1,0 +1,11 @@
+D:\Szkolenia\Artykuł ProgramistaMag\Code\DSLSamples\CredibilityDSL\bin\Debug\CredibilityDSL.exe
+D:\Szkolenia\Artykuł ProgramistaMag\Code\DSLSamples\CredibilityDSL\bin\Debug\CredibilityDSL.pdb
+D:\Szkolenia\Artykuł ProgramistaMag\Code\DSLSamples\CredibilityDSL\obj\x86\Debug\CredibilityDSL.exe
+D:\Szkolenia\Artykuł ProgramistaMag\Code\DSLSamples\CredibilityDSL\obj\x86\Debug\CredibilityDSL.pdb
+D:\Szkolenia\Artykuł ProgramistaMag\Code\DSLSamples\CredibilityDSL\bin\Debug\Antlr3.Runtime.dll
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityDSL\obj\x86\Debug\CredibilityDSL.exe
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityDSL\obj\x86\Debug\CredibilityDSL.pdb
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityDSL\bin\Debug\CredibilityDSL.exe
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityDSL\bin\Debug\CredibilityDSL.pdb
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityDSL\bin\Debug\Antlr3.Runtime.dll
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityDSL\obj\x86\Debug\CredibilityDSL.csprojResolveAssemblyReference.cache

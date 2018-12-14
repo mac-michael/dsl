@@ -1,0 +1,7 @@
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\HelloWorld\bin\Debug\Antlr3.Runtime.dll
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\HelloWorld\obj\x86\Debug\HelloWorld.exe
+D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\HelloWorld\obj\x86\Debug\HelloWorld.pdb
