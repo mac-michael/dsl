@@ -1,9 +1,0 @@
-D:\Szkolenia\Artykuł ProgramistaMag\Code\DSLSamples\CredibilityCalculator\bin\Debug\CredibilityCalculator.exe
-D:\Szkolenia\Artykuł ProgramistaMag\Code\DSLSamples\CredibilityCalculator\bin\Debug\CredibilityCalculator.pdb
-D:\Szkolenia\Artykuł ProgramistaMag\Code\DSLSamples\CredibilityCalculator\obj\x86\Debug\CredibilityCalculator.exe
-D:\Szkolenia\Artykuł ProgramistaMag\Code\DSLSamples\CredibilityCalculator\obj\x86\Debug\CredibilityCalculator.pdb
-D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityCalculator\bin\Debug\CredibilityCalculator.exe
-D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityCalculator\bin\Debug\CredibilityCalculator.pdb
-D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityCalculator\obj\x86\Debug\CredibilityCalculator.exe
-D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityCalculator\obj\x86\Debug\CredibilityCalculator.pdb
-D:\Szkolenia\Artykuł ProgramistaMag - DSL\Code\DSLSamples\CredibilityCalculator\obj\x86\Debug\CredibilityCalculator.csprojResolveAssemblyReference.cache
